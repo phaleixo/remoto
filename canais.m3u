@@ -141,3 +141,8 @@ http://conecdg.me:80/16224040/25793144/3916550
 http://conecdg.me:80/16224040/25793144/3916559
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS | GLOBO",Globo
 http://conecdg.me:80/16224040/25793144/3916125
+
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Globoplay Novelas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1024px-Globoplay_Novelas.svg.png" group-title="CANAIS | VARIEDADES",Globoplay Novelas
+http://conecdg.me:80/16224040/25793144/3916613
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Globoplay Novelas 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1024px-Globoplay_Novelas.svg.png" group-title="CANAIS | VARIEDADES",Globoplay Novelas 2
+http://conecdg.me:80/16224040/25793144/3932640
