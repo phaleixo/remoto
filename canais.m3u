@@ -142,7 +142,31 @@ http://conecdg.me:80/16224040/25793144/3916559
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS | GLOBO",Globo
 http://conecdg.me:80/16224040/25793144/3916125
 
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Globoplay Novelas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1024px-Globoplay_Novelas.svg.png" group-title="CANAIS | VARIEDADES",Globoplay Novelas
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Globoplay Novelas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1024px-Globoplay_Novelas.svg.png" group-title="CANAIS | VARIEDADES",Globoplay Novelas
 http://conecdg.me:80/16224040/25793144/3916613
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Globoplay Novelas 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1024px-Globoplay_Novelas.svg.png" group-title="CANAIS | VARIEDADES",Globoplay Novelas 2
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Globoplay Novelas 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1024px-Globoplay_Novelas.svg.png" group-title="CANAIS | VARIEDADES",Globoplay Novelas 2
 http://conecdg.me:80/16224040/25793144/3932640
+
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://tbsrv.me/images/LtD-jL_5gbA2B2MnmCn6vNdRXBfDgK7yw_aFZLV-5Ly1f8DSOjYaza41swYpVVRM94m2hBvm24ylo6ox2tPXeQ.png" group-title="CANAIS | PREMIERE",Premiere Clubes HD
+http://conecdg.me:80/16224040/25793144/3916294
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://tbsrv.me/images/LtD-jL_5gbA2B2MnmCn6vNdRXBfDgK7yw_aFZLV-5Ly1f8DSOjYaza41swYpVVRMYYAYneEVikzQL4zbJgolPQ.png" group-title="CANAIS | PREMIERE",Premiere 2 FHD
+http://conecdg.me:80/16224040/25793144/3916274
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://tbsrv.me/images/LtD-jL_5gbA2B2MnmCn6vNdRXBfDgK7yw_aFZLV-5Ly1f8DSOjYaza41swYpVVRM5ONl-GBZF-MWsE6n1wXjgA.png" group-title="CANAIS | PREMIERE",Premiere 3 FHD
+http://conecdg.me:80/16224040/25793144/3916277
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://tbsrv.me/images/LtD-jL_5gbA2B2MnmCn6vNdRXBfDgK7yw_aFZLV-5LwqQbwFSKrBQXx-T2m9YHqWuJk2hhlXq6qAdKfx8Zh8_A.png" group-title="CANAIS | PREMIERE",Premiere 4 FHD
+http://conecdg.me:80/16224040/25793144/3916280
+
+#EXTINF:-1 tvg-id="Premiere5.brazil.br" tvg-name="Premiere 5 FHD" tvg-logo="http://tbsrv.me/images/LtD-jL_5gbA2B2MnmCn6vNdRXBfDgK7yw_aFZLV-5Lw9LvpmkeRJyo8_-rXBUfFWX95xwjspWsvaO7pE1jRI3Q.png" group-title="CANAIS | PREMIERE",Premiere 5 FHD
+http://conecdg.me:80/16224040/25793144/3916283
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://tbsrv.me/images/LtD-jL_5gbA2B2MnmCn6vNdRXBfDgK7yw_aFZLV-5Ly1f8DSOjYaza41swYpVVRMnq5BSW1RmjQAINPKXFPiEg.png" group-title="CANAIS | PREMIERE",Premiere 6 FHD
+http://conecdg.me:80/16224040/25793144/3916286
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://tbsrv.me/images/LtD-jL_5gbA2B2MnmCn6vNdRXBfDgK7yw_aFZLV-5Ly1f8DSOjYaza41swYpVVRMjIPkDcPtfENwFSUu6VZ0eA.png" group-title="CANAIS | PREMIERE",Premiere 7 FHD
+http://conecdg.me:80/16224040/25793144/3916289
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 8 HD
+http://conecdg.me:80/16224040/25793144/3931506
